@@ -6,6 +6,13 @@
 **This repo contains all my data analysis projects. Navigate through the page and click on the hyperlink below to jump into the respective tools im using**
 
 :space_invader: [Excel](excel/EXCEL.md)<br/>
+  | Projects      | Summary         |
+| ------------- |:-------------:|
+| Bike purchases     | Analysis on the dataset retrieved from the year 20XX to learn which factor affected the purchases of the bikes from more than 1000 samples.   |
+| ex.2    | N/A    |
+
+
+<br/>
 :space_invader: SQL<br/>
 :space_invader: Tableau<br/>
 :space_invader: Python<br/>
