@@ -9,13 +9,13 @@
   | Projects      | Summary         |
 | ------------- |:-------------:|
 | Bike purchases     | Analysis on the dataset retrieved from the year 20XX to learn which factor affected the purchases of the bikes from more than 1000 samples.   |
-| ex.2    | N/A    |
 <br/>
 
-:space_invader: [SQL](https://github.com/aminbasiran/tableau-projects)<br/>
+:space_invader: [Tableau](https://github.com/aminbasiran/tableau-projects)<br/>
 | Projects      | Summary         |
 | ------------- |:-------------:|
 | Ski resorts in North America analysis     | XXXXXX   |
+| Customer sales analysis   | Analysis on the sales from a dataset pulled from the year 2020 and 2021. Data contains more than 280,000 records.   |
 
-:space_invader: Tableau<br/>
+:space_invader: SQL<br/>
 :space_invader: Python<br/>
