@@ -17,5 +17,9 @@
 | Ski resorts in North America analysis     | XXXXXX   | completed |
 | Customer sales analysis   | Analysis on the sales from a dataset pulled from the year 2020 and 2021. Data contains more than 280,000 records.   | on-going |
 
-:elephant: SQL<br/>
+:elephant: [SQL](https://github.com/aminbasiran/SQL-projects)<br/>
+| Projects      | Summary         | Status |
+| ------------- |:-------------:| ----------|
+| Video game sales    | Analysis on the sales of video games  | on-going |
+
 :snake: Python<br/>
