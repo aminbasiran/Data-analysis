@@ -14,8 +14,8 @@
 :turkey: [Tableau](https://github.com/aminbasiran/tableau-projects)<br/>
 | Projects      | Summary         | Status |
 | ------------- |:-------------:| ----------|
-| Ski resorts in North America analysis     | XXXXXX   | completed |
-| Customer sales analysis   | Analysis on the sales from a dataset pulled from the year 2020 and 2021. Data contains more than 280,000 records.   | on-going |
+| Ski resorts in North America analysis     |    | Completed |
+| Customer sales analysis   | Analysis on the sales from a dataset pulled from the year 2020 and 2021. Data contains more than 280,000 records.   | Completed |
 
 :elephant: [SQL](https://github.com/aminbasiran/SQL-projects)<br/>
 | Projects      | Summary         | Status |
