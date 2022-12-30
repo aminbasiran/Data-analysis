@@ -11,7 +11,7 @@
 | Bike purchases     | Analysis on the dataset retrieved from the year 20XX to learn which factor affected the purchases of the bikes from more than 1000 samples.| on-going|
 <br/>
 
-:turkey: [Tableau](https://github.com/aminbasiran/tableau-projects)<br/>
+:turkey: [Tableau & python](https://github.com/aminbasiran/tableau-projects)<br/>
 | Projects      | Summary         | Status |
 | ------------- |:-------------:| ----------|
 | Ski resorts in North America analysis     |    | Completed |
@@ -21,5 +21,5 @@
 | Projects      | Summary         | Status |
 | ------------- |:-------------:| ----------|
 | Video game sales    | Analysis on the sales of video games  | on-going |
+| Covid deaths analysis    | Analysis on the number of covid deaths vs how it has affected the unemployment rate by months in Malaysia  | on-going |
 
-:snake: Python<br/>
