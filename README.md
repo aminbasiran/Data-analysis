@@ -11,13 +11,13 @@
 | Bike purchases     | Analysis on the dataset retrieved from the year 20XX to learn which factor affected the purchases of the bikes from more than 1000 samples.| on-going|
 <br/>
 
-:turkey: [Tableau & python](https://github.com/aminbasiran/tableau-projects)<br/>
+:turkey: [Tableau](https://github.com/aminbasiran/tableau-projects)<br/>
 | Projects      | Summary         | Status |
 | ------------- |:-------------:| ----------|
 | Ski resorts in North America analysis     |    | Completed |
 | Customer sales analysis   | Analysis on the sales from a dataset pulled from the year 2020 and 2021. Data contains more than 280,000 records.   | Completed |
 
-:elephant: [SQL](https://github.com/aminbasiran/SQL-projects)<br/>
+:elephant: [SQL & python](https://github.com/aminbasiran/SQL-projects)<br/>
 | Projects      | Summary         | Status |
 | ------------- |:-------------:| ----------|
 | Video game sales    | Analysis on the sales of video games  | on-going |
