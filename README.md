@@ -21,6 +21,7 @@
 :elephant: [SQL & python](https://github.com/aminbasiran/SQL-projects)<br/>
 | Projects      | Summary         | Status |
 | ------------- |:-------------:| ----------|
-| Video game sales    | Analysis on the sales of video games  | on-going |
+| Video game sales    | Analysis on the sales of video games  | Completed |
+| Laptop brand prices   | Queries | on-going |
 | Covid deaths analysis    | Analysis on the number of covid deaths vs how it has affected the unemployment rate by months in Malaysia  | on-going |
 
