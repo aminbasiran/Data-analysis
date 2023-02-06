@@ -22,6 +22,7 @@
 | Projects      | Summary         | Status |
 | ------------- |:-------------:| ----------|
 | Video game sales    | Analysis on the sales of video games  | Completed |
-| Laptop brand prices   | Queries | on-going |
+| Laptop brand prices   | Queries | Completed |
+| Forecasting the gas prices   | Using Arima model to forecast the future gas prices from a time series data for the next 10 years | on-going |
 | Covid deaths analysis    | Analysis on the number of covid deaths vs how it has affected the unemployment rate by months in Malaysia  | on-going |
 
