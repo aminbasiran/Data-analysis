@@ -22,7 +22,7 @@
 | Projects      | Summary         | Status |
 | ------------- |:-------------:| ----------|
 | Video game sales    | Analysis on the sales of video games  | Completed |
-| Laptop brand prices   | Queries | Completed |
+| Laptop brand prices   | Queries - showcasing the use of CTEs, WITH clause and pivoting a table to extract data | Completed |
 | Forecasting the gas prices   | Using Arima model to forecast the future gas prices from a time series data for the next 5 years | on-going |
 | Covid deaths analysis    | Analysis on the number of covid deaths vs how it has affected the unemployment rate by months in Malaysia  | on-going |
 | **Uni-research**:_ROAD TRAFFIC FATALITIES_| Using Arima model to forecast the number road traffic accidents fatalities in Malaysia for the next 10 years using R-programming | Completed|
