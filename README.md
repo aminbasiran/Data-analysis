@@ -28,5 +28,6 @@
 | Case Study #1: Danny's Diner | Answering questions about the customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite etc. <br><br> Queries - showcasing the use of CTEs and window-functions | Completed |
 |Case Study #2 - Pizza Runner|  | on-going |
 |Case Study #3 - Foodie-Fi| Answering questions about a new subscription based business - netflix but only food-junkies. <br/><br/> Queries - showcasing the use of CTEs, joins, window-functions with Lag(), Lead(), Row_number() and complex subqueries | on-going |
+|Case Study #4 - Data-Bank| Calculating metrics, growth and helping the business analyse their data in a smart way to better forecast and plan for their future development. <br/><br> Queries - showcasing the use of CTEs, nested CTEs, joins. | on-going |
 | **Uni-research**:_ROAD TRAFFIC FATALITIES_| Using Arima model to forecast the number road traffic accidents fatalities in Malaysia for the next 10 years using R-programming | Completed|
 
