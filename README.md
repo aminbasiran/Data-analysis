@@ -17,6 +17,7 @@
 | Ski resorts in North America dashboard     |    | Completed |
 | Customer sales dashboard  | Analysis on the sales from a dataset pulled from the year 2020 and 2021. Data contains more than 280,000 records.   | Completed |
 | Video games sales dashboard   | Analysis on the sales of video games. Data contains more than 16,000 records.   | Completed |
+| Netflix dashboard   | Analysis on the netflix shows. Data contains more than 6,000 records.   | Completed |
 
 :elephant: [SQL & python](https://github.com/aminbasiran/SQL-projects)<br/>
 | Projects      | Summary         | Status |
