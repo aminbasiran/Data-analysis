@@ -18,7 +18,8 @@
 | Customer sales dashboard  | Analysis on the sales from a dataset pulled from the year 2020 and 2021. Data contains more than 280,000 records.   | Completed |
 | Video games sales dashboard   | Analysis on the sales of video games. Data contains more than 16,000 records.   | Completed |
 | Netflix dashboard   | Analysis on the netflix shows. Data contains more than 6,000 records.   | Completed |
-| Job salaries dashboard   | Analysis on the job salaries across the globe. Data contains more than 6,00 records.   | Completed |
+| Job salaries dashboard   | Analysis on the job salaries across the globe. Data contains more than 600 records.   | Completed |
+| IBM HR dashboard   | Analysis on IBM employees. Data contains more than 1400 records.   | Completed |
 
 :elephant: [SQL & python](https://github.com/aminbasiran/SQL-projects)<br/>
 | Projects      | Summary         | Status |
