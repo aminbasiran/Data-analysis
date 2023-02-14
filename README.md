@@ -24,7 +24,7 @@
 :elephant: SQL & python<br/>
 | Projects      | Summary         | Status |
 | ------------- |:-------------:| ----------|
-| [Video game sales] (https://github.com/aminbasiran/SQL-projects/tree/main/Video%20game%20sales)  | Analysis on the sales of video games  | Completed |
+| [Video game sales](https://github.com/aminbasiran/SQL-projects/tree/main/Video%20game%20sales)  | Analysis on the sales of video games  | Completed |
 | [Prices of different Laptop model](https://github.com/aminbasiran/SQL-projects/tree/main/Laptop%20prices) | Queries - showcasing the use of CTEs, WITH clause and pivoting a table to extract data | Completed |
 | [Forecasting the gas prices](https://github.com/aminbasiran/SQL-projects/tree/main/Gas%20prices)   | Using Arima model to forecast the future gas prices from a time series data for the next 5 years | on-going |
 | Covid deaths vs unemployment rate analysis    | Analysis on the number of covid deaths vs how it has affected the unemployment rate by months in Malaysia  | on-going |
