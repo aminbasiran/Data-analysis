@@ -8,7 +8,7 @@
 :dove:[Excel](https://github.com/aminbasiran/excel-projects)<br/>
   | Projects      | Summary         | Status |
 | ------------- |:-------------:| ---------|
-| Bike purchases     | Analysis on the dataset retrieved from the year 20XX to learn which factor affected the purchases of the bikes from more than 1000 samples.| on-going|
+| Bike purchases     | Analysis on the dataset retrieved from the year 20XX to learn which factor affected the purchases of the bikes from more than 1000 samples.| Completed|
 <br/>
 
 :turkey: [Tableau](https://github.com/aminbasiran/tableau-projects)<br/>
